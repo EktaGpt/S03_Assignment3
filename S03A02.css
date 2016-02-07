@@ -1,0 +1,11 @@
+div{
+    font-variant: small-caps;
+    font-weight: bold;
+    font-size: 40px;
+    letter-spacing: 1px;
+    
+}
+
+span.word{
+    color: darkslateblue;
+}
